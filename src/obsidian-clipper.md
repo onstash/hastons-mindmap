@@ -32,6 +32,12 @@ markmap:
 
 ### popup: './src/core/popup.ts'
 
+#### [dayjs](https://day.js.org/)
+
+#### Template, Property, PromptVariable from types/types.ts
+
+#### incrementStat, addHistoryEntry, getClipHistory from utils/storage-utils
+
 ### settings: './src/core/settings.ts'
 
 ### content: './src/content.ts'
